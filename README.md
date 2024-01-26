@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OGPandaLord
 - 👀 I’m interested in network defense and information assurance.
-- 🌱 I’m currently studying computer security.
+- 🌱 I’m currently studying science.
 - 📫 How to reach me: LinkedIn
 
 <!---
